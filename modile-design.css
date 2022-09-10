@@ -1,0 +1,29 @@
+@media only screen and (max-width: 376px){
+  body {
+    height: 100vh;
+    /* width: 450px; */
+    
+  }
+  input[type='submit']{
+    display: block;
+    margin: 20px auto 0;
+  }
+
+  .ping {
+    font-size: 25px;
+  }
+
+  .announce {
+    font-size: 28px;
+  }
+
+  .image img {
+    width: 350px;
+  }
+  input[type='submit']{
+    min-width: 340px;
+  }
+  #warning {
+    margin-right: 0px;
+  }
+}
